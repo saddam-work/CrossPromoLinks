@@ -1,0 +1,25 @@
+{
+    "Version": 0,
+   
+    "AppsList-Android": [
+            {
+                "AppTitle": "Fried Chicken Chef: Fast Food Maker",
+                "IconUrl": "https://sweetmakershop.com/videos/uploads/1600336605y2mate_com_-_Fried_Chicken_Chef_Fast_Food_Maker.mp4",
+                "Id": "com.hv.deepfried.chickenchef.fastfood.makergames"
+            },
+	    {
+                "AppTitle": "Good Pizza Maker: Baking Games For Kids",
+                "IconUrl": "https://sweetmakershop.com/videos/uploads/1591105384y2mate_com_-_Good_Pizza_Maker_Baking_Games_For_Kids.mp4",
+                "Id": "com.hv.bakinggames.pizzamaker.cookinggames"
+            }
+		
+          
+    ],
+
+    "AppsList-iOS": [
+        {
+            "AppTitle": "",
+            "IconUrl": "",
+            "Id": ""}
+    ]
+}
