@@ -3,14 +3,14 @@
    
     "AppsList-Android": [
             {
-                "AppTitle": "Fried Chicken Chef: Fast Food Maker",
-                "IconUrl": "https://sweetmakershop.com/videos/uploads/1600336605y2mate_com_-_Fried_Chicken_Chef_Fast_Food_Maker.mp4",
-                "Id": "com.hv.deepfried.chickenchef.fastfood.makergames"
+                "AppTitle": "City Airplane Flight Pilot Simulator",
+                "IconUrl": "https://play-lh.googleusercontent.com/rVln7h00sO5s0A7V70VtpRdd5_4nKR6dJrxxHFRAG0LXPO7HgLDX7tmaI677n_5QCSg",
+                "Id": "https://play.google.com/store/apps/details?id=com.braingames.european.city.airplane.simulator"
             },
 	    {
-                "AppTitle": "Good Pizza Maker: Baking Games For Kids",
-                "IconUrl": "https://sweetmakershop.com/videos/uploads/1591105384y2mate_com_-_Good_Pizza_Maker_Baking_Games_For_Kids.mp4",
-                "Id": "com.hv.bakinggames.pizzamaker.cookinggames"
+                "AppTitle": Fighting Plane Jet Aircraft Simulator - Dog Fight",
+                "IconUrl": "https://play-lh.googleusercontent.com/OZUUcfl0eUpjdVLiR4OIWJQBKCdcChe6UAnq6t3rzhDnJlV1rHb9MAU3iOWol0FwwhM",
+                "Id": "https://play.google.com/store/apps/details?id=com.braingames.aircraft.jet.fighter"
             }
 		
           
