@@ -2,6 +2,11 @@
     "Version": 0,
    
     "AppsList-Android": [
+    	    {
+                "AppTitle": "US Police Dog : Vegas crime simulator 2",
+                "IconUrl": "https://play-lh.googleusercontent.com/2WT315whMsTaFsDLZtXsuwYv4a864GVyxmlfAbd6JgfpWQNZHC-QfD4PSnq3XuYbPc33",
+                "Link": "https://play.google.com/store/apps/details?id=com.braingames.us.police.dog.vegas.sImulator"
+            },
             {
                 "AppTitle": "City Airplane Flight Pilot Simulator",
                 "IconUrl": "https://play-lh.googleusercontent.com/rVln7h00sO5s0A7V70VtpRdd5_4nKR6dJrxxHFRAG0LXPO7HgLDX7tmaI677n_5QCSg",
@@ -12,11 +17,6 @@
                 "IconUrl": "https://play-lh.googleusercontent.com/OZUUcfl0eUpjdVLiR4OIWJQBKCdcChe6UAnq6t3rzhDnJlV1rHb9MAU3iOWol0FwwhM",
                 "Link": "https://play.google.com/store/apps/details?id=com.braingames.aircraft.jet.fighter"
             },
-	    {
-                "AppTitle": "US Police Dog : Vegas crime simulator 2",
-                "IconUrl": "https://play-lh.googleusercontent.com/2WT315whMsTaFsDLZtXsuwYv4a864GVyxmlfAbd6JgfpWQNZHC-QfD4PSnq3XuYbPc33",
-                "Link": "https://play.google.com/store/apps/details?id=com.braingames.us.police.dog.vegas.sImulator"
-            }
 		
           
     ],
