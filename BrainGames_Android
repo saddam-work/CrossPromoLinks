@@ -2,6 +2,11 @@
     "Version": 1.2,
    
     "AppsList-Android": [
+     	    {
+                "AppTitle": "New Dinosaur Games: Survive and Hunt Dinosaurs",
+                "IconUrl": " ",
+                "Link": "https://play.google.com/store/apps/details?id=com.braingames.dinosaurs.hunting"
+            },
     	    {
                 "AppTitle": "Transport Prisoner: Police City Bus Driving Game",
                 "IconUrl": " ",
